@@ -1,5 +1,5 @@
 <template>
-  <aside class="w-1/5 bg-purple-900 text-white rounded-tr-3xl rounded-br-3xl py-11 px-5 min-h-screen">
+  <aside class="w-1/5 bg-purple-900 text-white rounded-tr-3xl rounded-lg py-11 px-5 min-h-screen">
         <h1 class="text-2xl font-bold mb-10 mt-5">
             eCourse
         </h1>
