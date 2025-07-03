@@ -1,6 +1,6 @@
 <template>
-  <div class="flex min-h-screen">
-    <sidebar class="fixed"/>
+  <div>
+    <sidebar class="fixed col-span-2"/>
     <Nuxt />
   </div>
 </template>

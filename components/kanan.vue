@@ -1,5 +1,5 @@
 <template>
-   <div class="w-1/4 pl-5 mt-10">
+   <div class="mt-10 w-1/4">
         <div class="flex items-center gap-3 mb-6">
             <img src="https://i.pinimg.com/736x/18/a2/43/18a243240733575368de4030af005bdc.jpg" alt="User Image" class="w-12 h-12 rounded-full">
             <div>

@@ -1,9 +1,7 @@
 <template>
-  <div class="flex min-h-screen">
-    <div class="flex-1 p-8 ml-64">
-      <mycourse />
-    </div>
-    <kanan class="w-1/4 pr-6" />
+  <div class="flex min-h-screen ">
+    <mycourse />
+    <kanan class="col-span-3 px-4 py-4"/>
   </div>
 </template>
 

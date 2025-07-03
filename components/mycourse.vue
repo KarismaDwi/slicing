@@ -1,5 +1,5 @@
 <template>
-       <div class="max-w-4xl">
+       <div class="ml-48 max-w-2xl flex flex-col p-6">
             <h2 class="text-3xl font-bold text-gray-800 mb-6">My Courses</h2>
             <div class="flex gap-4 mb-6"><span class="text-gray-600">Filter by:</span>
                 <select class="border px-5 py-2 rounded-full text-sm">
@@ -23,7 +23,7 @@
                         <p class="text-sm text-gray-800">Learn the basic operating system: abstraction, mechanisms, and implementation.</p>
                         <p class="text-sm text-gray-800 mt-2">Created by <span class="text-purple-600 font-semibold">Mark Lee</span> </p>
                     </div>
-                    <img src="https://i.pinimg.com/736x/df/da/99/dfda992fc75edcf9a462bc02057f24d5.jpg" alt="Course Image" class="w-20 w-20">
+                    <img src="https://i.pinimg.com/736x/df/da/99/dfda992fc75edcf9a462bc02057f24d5.jpg" alt="Course Image" class="w-20">
             </div>
                 <div class="bg-purple-200 rounded-xl shadow p-6 flex justify-between items-center hover:bg-purple-100 transition-colors">
                     <div>
@@ -31,7 +31,7 @@
                         <p class="text-sm text-gray-800">Intelligence demonstrated by machines, unlike the natural intelligence displayed by humas and animals.</p>
                         <p class="text-sm text-gray-800 mt-2">Created by <span class="text-purple-600 font-semibold">Jung Jaehyun</span> </p>
                     </div>
-                    <img src="https://i.pinimg.com/736x/df/da/99/dfda992fc75edcf9a462bc02057f24d5.jpg" alt="Course Image" class="w-20 w-20">
+                    <img src="https://i.pinimg.com/736x/df/da/99/dfda992fc75edcf9a462bc02057f24d5.jpg" alt="Course Image" class="w-20">
             </div>
                 <div class="bg-pink-200 rounded-xl shadow p-6 flex justify-between items-center hover:bg-pink-100 transition-colors">
                     <div>
