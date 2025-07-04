@@ -1,5 +1,5 @@
 <template>
-   <div class="w-3xl ml-2">
+   <div class="max-w-3xl ml-2">
         <div class="flex items-center gap-2 mb-8">
             <img src="https://i.pinimg.com/736x/18/a2/43/18a243240733575368de4030af005bdc.jpg" alt="User Image" class="w-12 h-12 rounded-full">
             <div>
@@ -7,8 +7,7 @@
                 <p class="text-sm text-gray-600">Web Developer</p>
         </div>
     </div>
-    
-    <div class="mx-auto bg-white rounded-xl shadow mb-5 p-6">
+    <div class="bg-white rounded-xl shadow p-4">
         <h2 class="text-xl font-bold text-left text-purple-500">Nov 2020</h2>
         <table class="w-full text-sm text-gray-600 table-fixed border-collapse text-center">
             <thead>
@@ -68,9 +67,9 @@
         </table>
     </div>
 
-    <div class="bg-white rounded-xl mt-6 shadow p-4">
+    <div class="bg-white mt-8 rounded-xl shadow p-4">
         <div class="flex-justify-between items-center mb-3">
-            <h4 class="font-bold text-sm text-gray-800">Online Users</h4>
+            <h4 class="font-bold text-xl text-gray-800">Online Users</h4>
             <a href="*#" class="text-purple-600 text-sm font-semibold">See All</a>
         </div>
         <div class="flex items-center gap-2">
