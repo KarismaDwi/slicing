@@ -1,6 +1,6 @@
 <template>
-  <aside class="w-48 bg-purple-900 text-white rounded-none py-11 px-12 min-h-screen">
-        <h1 class="text-2xl font-bold mb-10 mt-5">
+  <aside class="w-48 bg-purple-900 text-white rounded-l-none rounded-r-3xl py-11 py-8 px-12 min-h-screen">
+        <h1 class="text-2xl font-bold mb-10 mt-9">
             eCourse
         </h1>
         <nav class="space-y-6">

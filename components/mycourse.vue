@@ -1,7 +1,7 @@
 <template>
-       <div class="ml-48 max-w-2xl flex flex-col p-6">
-            <h2 class="text-3xl font-bold text-gray-800 mb-6">My Courses</h2>
-            <div class="flex gap-4 mb-6"><span class="text-gray-600">Filter by:</span>
+       <div class="ml-40">
+            <h2 class="text-2xl font-bold text-gray-800">My Courses</h2>
+            <div class="flex gap-3 mb-6 mt-10"><span class="text-gray-600">Filter by:</span>
                 <select class="border px-5 py-2 rounded-full text-sm">
                     <option>Time</option>
                 </select>
@@ -43,4 +43,5 @@
             </div>
         </div>
     </div>
+
 </template>

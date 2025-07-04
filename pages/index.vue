@@ -1,18 +1,18 @@
 <template>
-  <div class="flex min-h-screen ">
-    <mycourse />
-    <kanan class="col-span-3 px-4 py-4"/>
+  <div class="max-w-7xl mx-auto px-6 grid grid-cols-12 gap-5">
+    <MyCourse class="col-span-9" />
+    <Kanan class="col-span-3" />
   </div>
 </template>
 
 <script>
-import mycourse from '~/components/mycourse.vue'
-import kanan from '~/components/kanan.vue'
+import MyCourse from '~/components/mycourse.vue'
+import Kanan from '~/components/kanan.vue'
 
 export default {
   components: {
-    mycourse,
-    kanan
+    MyCourse,
+    Kanan
   }
 }
 </script>

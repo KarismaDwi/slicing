@@ -1,16 +1,18 @@
 <template>
-  <div>
-    <sidebar class="fixed col-span-2"/>
+  <div class="flex">
+    <Sidebar class="fixed"/>
+  <div class="flex-1 p-8 min-h-screen">
     <Nuxt />
+  </div>
   </div>
 </template>
 
 <script>
-import sidebar from '~/components/sidebar.vue'
+import Sidebar from '~/components/sidebar.vue'
 
 export default {
   components: {
-    sidebar
+   Sidebar
   }
 }
 </script>
